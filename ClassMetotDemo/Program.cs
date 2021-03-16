@@ -10,7 +10,7 @@ namespace ClassMetotDemo
             CustomerManager customerManager = new CustomerManager();
             customer1.Id = 52;
             customer1.Name = "Melih";
-            customer1.Surname = "Sivri";
+            customer1.Surname = "Sivri_Adamdir";
             customerManager.AddCustomer(customer1);
             customerManager.ShowCustomers();
 
